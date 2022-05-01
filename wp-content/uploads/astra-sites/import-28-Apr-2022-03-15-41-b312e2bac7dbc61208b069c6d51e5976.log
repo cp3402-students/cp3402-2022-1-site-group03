@@ -1,0 +1,21 @@
+
+Inserted WP Form 5
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/outdoor-adventure-08\/wp-content\/uploads\/sites\/688\/2020\/09\/logo.png","nav_menu_locations":{"primary":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":null,"elementor_cpt_support":null,"elementor_css_print_method":null,"elementor_default_generic_fonts":null,"elementor_disable_color_schemes":null,"elementor_disable_typography_schemes":null,"elementor_editor_break_lines":null,"elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":null,"elementor_scheme_color-picker]":null,"elementor_scheme_typography":null,"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":null,"elementor_active_kit":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null,"astra-color-palettes":{"currentPalette":"palette_1","palettes":{"palette_1":["#fb2056","#fb2056","#222222","#222222","#f4f6f9","#ffffff","#f4f5f9","#f7f7f7","#BFD1FF"],"palette_2":["#0274be","#3a3a3a","#3a3a3a","#4B4F58","#ffffff","#040219","#F2F5F7","#f7f7f7","#000000"],"palette_3":["#0274be","#3a3a3a","#3a3a3a","#4B4F58","#ffffff","#040219","#F2F5F7","#f7f7f7","#000000"]},"flag":true},"astra-typography-presets":""}
+Source - https://websitedemos.net/outdoor-adventure-08/wp-content/uploads/sites/688/2020/09/logo.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/outdoor-adventure-08/wp-content/uploads/sites/688/2020/09/logo.png
+Log - {"url":"https:\/\/websitedemos.net\/outdoor-adventure-08\/wp-content\/uploads\/sites\/688\/2020\/09\/logo.png","id":0}
+Inserted - Post 7 - attachment - logo.png
+BATCH - SUCCESS Image {Imported} - http://localhost/jazzclub/wp-content/uploads/2022/04/logo.png
+Inserted - Post 7 - attachment - logo.png
+Imported - Widgets {"wp_inactive_widgets":["search-1","recent-posts-1","recent-comments-1","archives-1","categories-1","meta-1"],"right-sidebar":["block-2","block-3","block-4"],"left-sidebar":["block-5","block-6"],"array_version":3}
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'Jazz Club' (1)
+---- Processing Images from Widgets -----
+---- Processing Contact Form Mapping from WP Forms Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+---- Processing Images Metadata ----
+---- Processing Images Metadata Completed ----
+---- Processing batch process for Customizer start ----
+---- Processing batch process for Customizer done ----
+Batch Process Complete!
