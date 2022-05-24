@@ -21,7 +21,9 @@ This Project is aimed to replace Townsville Jazz Club's current outdated website
 ## Links
 ---
 [deployment.md](https://github.com/cp3402-students/cp3402-2022-1-site-group03/blob/main/deployment.md) - Describes our development and deployment workflow in detail so that a new team member or someone taking over the project could follow to successfully develop theme updates locally, then test and deploy them to staging and live sites. This includes project management, version control, testing and automation.
+
 [theme.md](https://github.com/cp3402-students/cp3402-2022-1-site-group03/blob/main/theme.md) - This page helps new developers to continue developing our theme. This includes relevant information about what features our theme has, files that would need editing, design decisions, colours, etc.
+
 [site.md](https://github.com/cp3402-students/cp3402-2022-1-site-group03/blob/main/site.md) - Clearly explains how this particular site is organised and can be updated
 
 ## Technologies
