@@ -43,7 +43,7 @@ To run this project:
 Install wordpress to localhost (Such as XAMPP or WAMPP), or to server.
 Install plugins (Listed in Techologies)
 Move files in Github to Wordpress install folder, replacing any files.
-Using All-in-One WP Migration Version, import Wordpress file, to import all files, pages, posts and other data.
+Using All-in-One WP Migration, import Wordpress file, to import all files, pages, posts and other data.
 ```
 
 ## Credits
