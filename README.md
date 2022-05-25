@@ -58,6 +58,6 @@ Website Design and Content
 
 Overall Team
 * Matthew Schifilitti
-* Gifto Ogingo
+* Gift Ogingo
 * Cooper Plath
 * Adam Edgar
